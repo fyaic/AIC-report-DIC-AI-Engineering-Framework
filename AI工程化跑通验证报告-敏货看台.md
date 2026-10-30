@@ -41,7 +41,11 @@
 | --- | --- | --- |
 | [minhuo-kantai-doc](https://github.com/rosetta-guo-fyaic/minhuo-kantai-doc) | 项目文档仓：OD 工作区 + 零~四号仓库全部正文、评审留痕、放行签署 | tag `baseline/v1.0.0` |
 | [minhuo-kantai-code](https://github.com/rosetta-guo-fyaic/minhuo-kantai-code) | 项目代码仓：AI_CODE_INPUT 汇编、后端 8 接口、前端 5 页、测试套件、种子数据 | tag `release/v1.0.0` |
-| [minhuo-kantai-report](https://github.com/rosetta-guo-fyaic/minhuo-kantai-report) | 本报告 + 33 张截图资产 + 断点清单 | — |
+| [minhuo-kantai-report](https://github.com/rosetta-guo-fyaic/minhuo-kantai-report) | 本报告 + 35 张截图资产 + 断点清单 | — |
+
+本报告在 GitHub 上的渲染效果（图片内嵌、可直接分享链接给任何人）：
+
+![报告 GitHub 渲染页](assets/gh-06-report-rendered.png)
 
 **文档仓首页**（16 次提交对应各阶段收口，目录即体系结构）：
 
@@ -263,9 +267,9 @@ category: 22 | rule: 56 | change_log: 10        # 种子数据：22 品类 / 56 
 | 四号仓库 | 38 用例 / 执行记录 / 21 截图 / Bug 管理 / 验收 / 放行建议 | R4（PM）：证据虚接→补验 RUN-002→放行签署 | `511d86e` `0b55506` `1e7679b` |
 | 交付 | 交付接收记录 / 遗留移交 / 零号回写「已发布」 | — | `a87061a` `173f15c`，tag `release/v1.0.0` |
 
-### 附录 B：截图索引（33 张，均在 `assets/`）
+### 附录 B：截图索引（35 张，均在 `assets/`）
 
-- GitHub 产物 5 张：`gh-01~05`
+- GitHub 产物 7 张：`gh-01~05`（两仓首页/Releases/提交史）+ `gh-06~07`（报告渲染页/报告仓首页）
 - 过程 7 张：`shot-01`（工作区结构）`shot-02`（Git 历史）`shot-03`（Agent 协作链）`shot-04~07`（系统四页）
 - QA 留证 21 张：`TC-*.png`（用例级交互证据）
 

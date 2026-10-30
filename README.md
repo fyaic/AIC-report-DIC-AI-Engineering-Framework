@@ -11,6 +11,6 @@
 | [minhuo-kantai-code](https://github.com/rosetta-guo-fyaic/minhuo-kantai-code) | 项目代码仓（tag `release/v1.0.0`，README 含一键启动） |
 | [DIC-PM-AI-Engineering](https://github.com/rosetta-guo-fyaic/DIC-PM-AI-Engineering) | 被验证的工程化体系（工具仓，只读） |
 
-本仓结构：主报告 1 份 ｜ 断点清单 [00_断点清单.md](00_断点清单.md) ｜ 截图资产 `assets/`（33 张）
+本仓结构：主报告 1 份 ｜ 断点清单 [00_断点清单.md](00_断点清单.md) ｜ 截图资产 `assets/`（35 张）
 
 验证日期 2026-10-28 ｜ 结论：链路跑通，测试 61+26 项全过、0 产品缺陷，四轮评审抓出 10 项上游缺陷全部闭环。
