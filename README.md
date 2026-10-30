@@ -4,7 +4,7 @@
 
 **验证方式一句话**：五个 AI 角色按体系规则分工（OD / 产品经理 / 研发 / 测试 / 产品总监），走完 OD 工作区 → 零~四号仓库 → 代码仓 → 发布共七段流程，四道评审门禁全部执行。产物全部公开：[项目文档仓](https://github.com/rosetta-guo-fyaic/minhuo-kantai-doc)（tag `baseline/v1.0.0`）｜[项目代码仓](https://github.com/rosetta-guo-fyaic/minhuo-kantai-code)（tag `release/v1.0.0`）。
 
-> 本报告已与 **AIC 评议**（技术负责人 Veil，[fyaic/dic-ai-engineering-review](https://github.com/fyaic/dic-ai-engineering-review)，私有协作仓）交叉印证合并：两份评审方法互补（他们静态评议工具仓脚本、我们动态实测全流程），逐项对照与合并改法见 [05-与AIC评议的交叉印证.md](05-与AIC评议的交叉印证.md)。
+> 本报告已与 **AIC 评议**（技术负责人 Veil，[fyaic/dic-ai-engineering-review](https://github.com/fyaic/dic-ai-engineering-review)，私有协作仓）交叉印证合并：两份评审方法互补（他们静态评议工具仓脚本、我们动态实测全流程），逐项对照与合并改法见 [05-rosetta与veil评审交叉印证.md](05-rosetta与veil评审交叉印证.md)。
 
 ---
 
@@ -30,7 +30,7 @@
 4. **Skill 绑死特定运行器**——换一个 AI 工具链就失效，「可复制」目标受阻
 5. **验收证据可信度无制度保障**——实测抓到一次「测试报告声称测了、实际没测」
 
-→ 改法与优先级见 [02-需要改进的地方.md](02-需要改进的地方.md)；与 AIC 评议合并后的统一改法视图见 [05-与AIC评议的交叉印证.md](05-与AIC评议的交叉印证.md) §4
+→ 改法与优先级见 [02-需要改进的地方.md](02-需要改进的地方.md)；与 AIC 评议合并后的统一改法视图见 [05-rosetta与veil评审交叉印证.md](05-rosetta与veil评审交叉印证.md) §4
 
 ---
 
@@ -42,7 +42,7 @@
 | 要改什么、怎么改、什么优先 | [02-需要改进的地方.md](02-需要改进的地方.md) |
 | 验证怎么做的、证据与截图 | [03-验证过程与证据.md](03-验证过程与证据.md) |
 | 31 项断点逐条明细（底表） | [04-断点清单.md](04-断点清单.md) |
-| 与 AIC 评议（Veil）的交叉印证与合并视图 | [05-与AIC评议的交叉印证.md](05-与AIC评议的交叉印证.md) |
+| 与 AIC 评议（Veil）的交叉印证与合并视图 | [05-rosetta与veil评审交叉印证.md](05-rosetta与veil评审交叉印证.md) |
 
 **本仓其他资产**：`assets/`（35 张截图，正文逐张有说明）｜`workspace/`（测试总控纪律 + 10 个运行器中立 Skill）
 

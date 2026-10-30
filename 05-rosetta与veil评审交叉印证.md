@@ -1,6 +1,6 @@
-# 05 · 与 AIC 评议的交叉印证
+# 05 · Rosetta 与 Veil 评审交叉印证
 
-> DIC 工程化体系本轮收到两份独立反馈：**AIC 评议**（技术负责人 Veil，[fyaic/dic-ai-engineering-review](https://github.com/fyaic/dic-ai-engineering-review)，私有协作仓）与**本报告**（aic 试点实测）。两者方法不同、发现互补——本篇把它们对上，给体系维护方一份合并视图。
+> DIC 工程化体系本轮收到两份独立反馈：**AIC 评议**（技术负责人 Veil，[fyaic/dic-ai-engineering-review](https://github.com/fyaic/dic-ai-engineering-review)，私有协作仓）与**本报告**（aic 试点实测）。两者方法不同、发现互补——本篇Rosetta（aic 试点实测）与 Veil（AIC 静态评议）两份评审互相印证，给体系维护方一份合并视图。
 
 ## 1. 两份评审的定位
 
